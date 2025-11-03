@@ -19,6 +19,12 @@ React | TypeScript | Next.js | JavaScript | Bootstrap | CSS | TailwindCSS | Styl
 
 ![Khasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=xasandj1&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xasandj1&layout=compact&theme=tokyonight)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 
 ---
 
@@ -76,14 +82,6 @@ React | TypeScript | Next.js | JavaScript | Bootstrap | CSS | TailwindCSS | Styl
 
 ![Khasan’ning GitHub statistikasi](https://github-readme-stats.vercel.app/api?username=xasandj1&show_icons=true&theme=tokyonight&custom_title=Khasan%E2%80%99ning%20GitHub%20statistikasi)
 ![Eng ko‘p ishlatilgan tillar](https://github-readme-stats.vercel.app/api/top-langs/?username=xasandj1&layout=compact&theme=tokyonight&custom_title=Eng%20ko%E2%80%98p%20ishlatilgan%20tillar)
-
-
-
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 - [LinkedIn](https://www.linkedin.com/in/khasan-djuraev-21a86b243/)  
 - [Instagram](https://www.instagram.com/1_djuraev_/)  
 - [Vercel лойиҳаларим](https://vercel.com/xasan-djuraevs-projects)  
