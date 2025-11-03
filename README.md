@@ -1,6 +1,3 @@
-![Khasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=xasandj1&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xasandj1&layout=compact&theme=tokyonight)
-
 # 👋 Welcome / Добро пожаловать / Xush kelibsiz / Хуш келибсиз!
 
 ### 🇬🇧 English
@@ -20,6 +17,9 @@ React | TypeScript | Next.js | JavaScript | Bootstrap | CSS | TailwindCSS | Styl
 
 💡 **I like:** football ⚽, tennis 🎾, reading books 📚, and listening to music 🎧.
 
+![Khasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=xasandj1&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xasandj1&layout=compact&theme=tokyonight)
+
 ---
 
 ### 🇷🇺 Русский
@@ -38,6 +38,10 @@ React | TypeScript | Next.js | JavaScript | Bootstrap | CSS | TailwindCSS | Styl
 React | TypeScript | Next.js | JavaScript | Bootstrap | CSS | TailwindCSS | Styled Components | Python (изучаю)
 
 💡 **Мне нравится:** футбол ⚽, теннис 🎾, чтение 📚 и музыка 🎧.
+
+![Статистика GitHub Хасана](https://github-readme-stats.vercel.app/api?username=xasandj1&show_icons=true&theme=tokyonight&locale=ru&custom_title=%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0%20GitHub%20%D0%A5%D0%B0%D1%81%D0%B0%D0%BD%D0%B0)
+![Самые используемые языки](https://github-readme-stats.vercel.app/api/top-langs/?username=xasandj1&layout=compact&theme=tokyonight&locale=ru&custom_title=%D0%A1%D0%B0%D0%BC%D1%8B%D0%B5%20%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D0%B5%D0%BC%D1%8B%D0%B5%20%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8)
+
 
 ---
 
@@ -70,7 +74,9 @@ React | TypeScript | Next.js | JavaScript | Bootstrap | CSS | TailwindCSS | Styl
 
 ## 📊 GitHub Stats
 
-![](https://komarev.com/ghpvc/?username=xasandj1&label=PROFILE+VIEWS&color=blueviolet&style=flat-square)
+![Khasan’ning GitHub statistikasi](https://github-readme-stats.vercel.app/api?username=xasandj1&show_icons=true&theme=tokyonight&custom_title=Khasan%E2%80%99ning%20GitHub%20statistikasi)
+![Eng ko‘p ishlatilgan tillar](https://github-readme-stats.vercel.app/api/top-langs/?username=xasandj1&layout=compact&theme=tokyonight&custom_title=Eng%20ko%E2%80%98p%20ishlatilgan%20tillar)
+
 
 - [LinkedIn](https://www.linkedin.com/in/khasan-djuraev-21a86b243/)  
 - [Instagram](https://www.instagram.com/1_djuraev_/)  
