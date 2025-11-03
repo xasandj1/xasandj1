@@ -64,6 +64,14 @@ React | TypeScript | Next.js | JavaScript | Bootstrap | CSS | TailwindCSS | Styl
 📫 **Алоқа учун:**  
 - Telegram: [@Djuraev](https://t.me/Djuraev)  
 - Email: [xasandj@icloud.com](mailto:xasandj@icloud.com)  
+
+## 📊 GitHub Stats
+
+![](https://komarev.com/ghpvc/?username=xasandj1&label=PROFILE+VIEWS&color=blueviolet&style=flat-square)
+
+![Khasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=xasandj1&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xasandj1&layout=compact&theme=tokyonight)
+
 - [LinkedIn](https://www.linkedin.com/in/khasan-djuraev-21a86b243/)  
 - [Instagram](https://www.instagram.com/1_djuraev_/)  
 - [Vercel лойиҳаларим](https://vercel.com/xasan-djuraevs-projects)  
