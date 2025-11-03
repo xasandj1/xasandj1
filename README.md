@@ -19,6 +19,7 @@ React | TypeScript | Next.js | JavaScript | Bootstrap | CSS | TailwindCSS | Styl
 
 ![Khasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=xasandj1&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xasandj1&layout=compact&theme=tokyonight)
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
